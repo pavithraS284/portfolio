@@ -1,4 +1,4 @@
-import Portfolio from "./components/portfolio-dark";
+import Portfolio from "./components/Portfolio";
 
 function App() {
   return <Portfolio/>;
