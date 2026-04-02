@@ -876,7 +876,7 @@ function Contact() {
 
 <div style={{ display:"flex", gap:10 }}>
   {[
-    ["fab fa-github","GitHub","https://github.com/dashboard"],
+    ["fab fa-github","GitHub","https://github.com/pavithraS284"],
     ["fab fa-linkedin-in","LinkedIn","https://www.linkedin.com/in/pavithrasenthilkumarr"],
     ["fab fa-twitter","Twitter","https://twitter.com/your-username"]
   ].map(([ic,lbl,link]) => (
